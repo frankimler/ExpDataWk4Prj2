@@ -1,6 +1,8 @@
 # Frank C. Imler
 # Coursera - John Hopkins University - Exploratory Data Analysis
 # Week 4 Course Project 2 - Question 2
+# Have total emissions from PM2.5 decreased in the  Baltimore City, Maryland (fips == 24510) from 1999 to 2008?
+# Use the base plotting system to make a plot answering this question.
 
 # No scientific notation
 NEI[, Emissions := lapply(.SD, as.numeric), .SDcols = c("Emissions")]

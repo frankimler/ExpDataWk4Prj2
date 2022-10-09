@@ -1,6 +1,8 @@
 # Frank C. Imler
 # Coursera - John Hopkins University - Exploratory Data Analysis
 # Week 4 Course Project 2 - Question 6
+# Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == 06037).
+# Which city has seen greater changes over time in motor vehicle emissions?
 
 # Load GGPLOT2 Library
 library(ggplot2)

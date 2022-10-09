@@ -1,6 +1,7 @@
 # Frank C. Imler
 # Coursera - John Hopkins University - Exploratory Data Analysis
 # Week 4 Course Project 2 - Question 4
+# Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008?
 
 # Load GGPLOT2 Library
 library(ggplot2)

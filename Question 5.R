@@ -1,6 +1,7 @@
 # Frank C. Imler
 # Coursera - John Hopkins University - Exploratory Data Analysis
 # Week 4 Course Project 2 - Question 5
+# How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 
 # Load GGPLOT2 Library
 library(ggplot2)
